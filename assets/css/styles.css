@@ -1,0 +1,24 @@
+* {
+    text-align: center;
+    font-family: 'Sora', sans-serif;
+}
+
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+.userCard, .storyCard {
+    width: 60vw;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 1px solid #eee;
+    box-shadow: -5px 5px 20px 5px #eee;
+    padding: 16px;
+    text-align: center;
+}
+
+.story-date{
+    color:red;
+}
